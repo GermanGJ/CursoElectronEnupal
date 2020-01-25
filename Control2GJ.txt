@@ -1,0 +1,11 @@
+node -v
+npm init
+npm install electron
+electron -v
+npm electron -v
+
+    "scripts": {
+    "start" : "electron main.js"
+     },
+
+npm start
